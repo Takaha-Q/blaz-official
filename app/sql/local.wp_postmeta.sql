@@ -1,0 +1,31 @@
+/*!40101 SET NAMES binary*/;
+/*!40014 SET FOREIGN_KEY_CHECKS=0*/;
+/*!40103 SET TIME_ZONE='+00:00' */;
+INSERT INTO `wp_postmeta` VALUES
+(1,2,"_wp_page_template","default"),
+(4,5,"_wp_attached_file","2018/01/temp_logo.png"),
+(5,5,"_wp_attachment_metadata","a:5:{s:5:\"width\";i:250;s:6:\"height\";i:50;s:4:\"file\";s:21:\"2018/01/temp_logo.png\";s:5:\"sizes\";a:1:{s:9:\"thumbnail\";a:4:{s:4:\"file\";s:20:\"temp_logo-150x50.png\";s:5:\"width\";i:150;s:6:\"height\";i:50;s:9:\"mime-type\";s:9:\"image/png\";}}s:10:\"image_meta\";a:12:{s:8:\"aperture\";s:1:\"0\";s:6:\"credit\";s:0:\"\";s:6:\"camera\";s:0:\"\";s:7:\"caption\";s:0:\"\";s:17:\"created_timestamp\";s:1:\"0\";s:9:\"copyright\";s:0:\"\";s:12:\"focal_length\";s:1:\"0\";s:3:\"iso\";s:1:\"0\";s:13:\"shutter_speed\";s:1:\"0\";s:5:\"title\";s:0:\"\";s:11:\"orientation\";s:1:\"0\";s:8:\"keywords\";a:0:{}}}"),
+(6,6,"_edit_lock","1515342656:1"),
+(7,6,"_wp_trash_meta_status","publish"),
+(8,6,"_wp_trash_meta_time","1515342354"),
+(9,7,"_edit_lock","1515342511:1"),
+(10,7,"_wp_trash_meta_status","publish"),
+(11,7,"_wp_trash_meta_time","1515342511"),
+(12,8,"_wp_attached_file","2018/01/android-2160x1920-wallpaper_00586.jpg"),
+(13,8,"_wp_attachment_metadata","a:5:{s:5:\"width\";i:2160;s:6:\"height\";i:1920;s:4:\"file\";s:45:\"2018/01/android-2160x1920-wallpaper_00586.jpg\";s:5:\"sizes\";a:5:{s:9:\"thumbnail\";a:4:{s:4:\"file\";s:45:\"android-2160x1920-wallpaper_00586-150x150.jpg\";s:5:\"width\";i:150;s:6:\"height\";i:150;s:9:\"mime-type\";s:10:\"image/jpeg\";}s:6:\"medium\";a:4:{s:4:\"file\";s:45:\"android-2160x1920-wallpaper_00586-300x267.jpg\";s:5:\"width\";i:300;s:6:\"height\";i:267;s:9:\"mime-type\";s:10:\"image/jpeg\";}s:12:\"medium_large\";a:4:{s:4:\"file\";s:45:\"android-2160x1920-wallpaper_00586-768x683.jpg\";s:5:\"width\";i:768;s:6:\"height\";i:683;s:9:\"mime-type\";s:10:\"image/jpeg\";}s:5:\"large\";a:4:{s:4:\"file\";s:46:\"android-2160x1920-wallpaper_00586-1024x910.jpg\";s:5:\"width\";i:1024;s:6:\"height\";i:910;s:9:\"mime-type\";s:10:\"image/jpeg\";}s:14:\"post-thumbnail\";a:4:{s:4:\"file\";s:45:\"android-2160x1920-wallpaper_00586-320x180.jpg\";s:5:\"width\";i:320;s:6:\"height\";i:180;s:9:\"mime-type\";s:10:\"image/jpeg\";}}s:10:\"image_meta\";a:12:{s:8:\"aperture\";s:1:\"0\";s:6:\"credit\";s:0:\"\";s:6:\"camera\";s:0:\"\";s:7:\"caption\";s:0:\"\";s:17:\"created_timestamp\";s:1:\"0\";s:9:\"copyright\";s:0:\"\";s:12:\"focal_length\";s:1:\"0\";s:3:\"iso\";s:1:\"0\";s:13:\"shutter_speed\";s:1:\"0\";s:5:\"title\";s:0:\"\";s:11:\"orientation\";s:1:\"0\";s:8:\"keywords\";a:0:{}}}"),
+(14,9,"_wp_attached_file","2018/01/5d3f787b3b63167512acbfac7dcc6bb7_s.jpg"),
+(15,9,"_wp_attachment_metadata","a:5:{s:5:\"width\";i:800;s:6:\"height\";i:450;s:4:\"file\";s:46:\"2018/01/5d3f787b3b63167512acbfac7dcc6bb7_s.jpg\";s:5:\"sizes\";a:4:{s:9:\"thumbnail\";a:4:{s:4:\"file\";s:46:\"5d3f787b3b63167512acbfac7dcc6bb7_s-150x150.jpg\";s:5:\"width\";i:150;s:6:\"height\";i:150;s:9:\"mime-type\";s:10:\"image/jpeg\";}s:6:\"medium\";a:4:{s:4:\"file\";s:46:\"5d3f787b3b63167512acbfac7dcc6bb7_s-300x169.jpg\";s:5:\"width\";i:300;s:6:\"height\";i:169;s:9:\"mime-type\";s:10:\"image/jpeg\";}s:12:\"medium_large\";a:4:{s:4:\"file\";s:46:\"5d3f787b3b63167512acbfac7dcc6bb7_s-768x432.jpg\";s:5:\"width\";i:768;s:6:\"height\";i:432;s:9:\"mime-type\";s:10:\"image/jpeg\";}s:14:\"post-thumbnail\";a:4:{s:4:\"file\";s:46:\"5d3f787b3b63167512acbfac7dcc6bb7_s-320x180.jpg\";s:5:\"width\";i:320;s:6:\"height\";i:180;s:9:\"mime-type\";s:10:\"image/jpeg\";}}s:10:\"image_meta\";a:12:{s:8:\"aperture\";s:1:\"0\";s:6:\"credit\";s:0:\"\";s:6:\"camera\";s:0:\"\";s:7:\"caption\";s:0:\"\";s:17:\"created_timestamp\";s:1:\"0\";s:9:\"copyright\";s:0:\"\";s:12:\"focal_length\";s:1:\"0\";s:3:\"iso\";s:1:\"0\";s:13:\"shutter_speed\";s:1:\"0\";s:5:\"title\";s:0:\"\";s:11:\"orientation\";s:1:\"0\";s:8:\"keywords\";a:0:{}}}"),
+(16,10,"_edit_lock","1515342667:1"),
+(17,10,"_wp_trash_meta_status","publish"),
+(18,10,"_wp_trash_meta_time","1515342667"),
+(19,11,"_wp_trash_meta_status","publish"),
+(20,11,"_wp_trash_meta_time","1515342678"),
+(21,12,"_edit_lock","1515342725:1"),
+(22,12,"_customize_restore_dismissed","1"),
+(23,13,"_edit_lock","1515396055:1"),
+(24,13,"_wp_trash_meta_status","publish"),
+(25,13,"_wp_trash_meta_time","1515396055"),
+(26,14,"_wp_trash_meta_status","publish"),
+(27,14,"_wp_trash_meta_time","1515396161"),
+(28,15,"_wp_trash_meta_status","publish"),
+(29,15,"_wp_trash_meta_time","1515396274");
